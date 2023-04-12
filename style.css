@@ -1,0 +1,41 @@
+
+body {
+    background-color:rgb(171, 187, 238);
+    font-family: Arial;
+    font-size: 15px;
+    line-height:1;
+
+}
+img {
+    height: 500px;
+    width:450px;
+    border-radius: 26px;
+    
+    
+}
+section {
+    Box-shadow: 0 0 20px Black;
+    text-align: center;
+    padding:15px;
+    border-radius: 15px;
+    background-color: white;
+    width: 500px;
+    height:750px;
+    margin:auto;
+    margin-top: 50px;
+   
+    
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-size: 37px;
+}
+
+p {
+    color:grey;
+    font-size: 20px;
+}
+
